@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! 👋
 
 <!--
 **danilopinho75/danilopinho75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Eu sou Danilo Pinho de Gouvêa, um Analista de Dados com formação em Engenharia de Software e atualmente me especializando em Ciência de Dados e Inteligência Artificial. Tenho experiência prática em análise de dados utilizando SQL, Python e Power BI, além de habilidades em web design, SEO e marketing digital.</p>
+
+<p>Gosto de resolver problemas complexos através de insights baseados em dados e estou sempre em busca de novas oportunidades para crescer e contribuir com uma equipe talentosa.</p>
+
+<p>Sinta-se à vontade para explorar meus repositórios, onde compartilho projetos de análise de dados, visualização e muito mais. Vamos nos conectar!</p>
